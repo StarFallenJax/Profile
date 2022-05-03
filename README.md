@@ -2,9 +2,7 @@
 <h3 align="center">A simple site that groups all my public social media profiles in one place.</h3>
 
 
-<p align="center">
-  <img alt="Layout" src="![image](https://user-images.githubusercontent.com/93849152/166391504-77a6100a-b3d1-439d-a0fe-fbb4941fe9eb.png)">
-</p>
+![image](https://user-images.githubusercontent.com/93849152/166391516-71257ebf-c966-46da-9f48-1c81b958c079.png)
 
 ---
 
