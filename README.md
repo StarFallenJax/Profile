@@ -9,8 +9,8 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://johnemerson1406.github.io/linktree)
+- [Demo](https://spacemanjax.github.io/Linktree/)
 
-## CREDIT
+## 💭 Credit
 
-Orginally made by John Emerson
+Orginally made by John Emerson, Edited by [Me](https://github.com/SpaceManJax)
