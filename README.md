@@ -13,4 +13,4 @@ This is an open source project that serves as a free alternative to the Linktree
 
 ## 💭 Credit
 
-Orginally made by John Emerson, Edited by [Me](https://github.com/SpaceManJax)
+Orginally made by [John Emerson](https://github.com/johnggli), Edited by [Me](https://github.com/SpaceManJax)
