@@ -11,6 +11,10 @@
 This is an open source project that serves as a free alternative to the Linktree website.
 - [Demo](https://spacemanjax.github.io/Linktree/)
 
+## 🧰 Create your own
+
+- If you like this work and want to have a head start in making your own version, fork this repository and change the information in ```index.html```, then set up [Github Pages](https://pages.github.com/) to host the website.
+
 ## 💭 Credit
 
 Orginally made by [John Emerson](https://github.com/johnggli), Edited by [Me](https://github.com/SpaceManJax)
