@@ -55,7 +55,7 @@ body {
 
 #pronouns {
     color: var(--accentColor);
-    font-size: 8px;
+    font-size: 1rem;
     font-weight: bold;
     line-height: 0.75;
     display: block;
