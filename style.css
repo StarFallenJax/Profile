@@ -53,6 +53,18 @@ body {
     text-decoration: none;
 }
 
+#pronouns {
+    color: var(--accentColor);
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 0.75;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
 #links {
     max-width: 675px;
     width: auto;
