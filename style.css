@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 
 :root {
-    --bgColor: #9D4EDD;
-    --bgColor2: #C77DFF;
-    --accentColor: #E0AAFF;
+    --bgColor: #463152;
+    --bgColor2: #AC89C7;
+    --accentColor: #EFDCFF;
     --font: 'Karla', sans-serif;
     --delay: .3s;
 }
