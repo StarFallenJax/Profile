@@ -7,13 +7,13 @@
 
 ## 💡 About the project
 
-This is an open source project that serves as a free alternative to the Linktree website.
+This is an open source project of mine, designed to streamline all of my public social media profiles and projects into one neat place. Originally, this started off as just a free alternative to linktree, however, my ambitions grew. Below here is the original linktree example I based mine off of.
 - [Demo](https://spacemanjax.github.io/Linktree/)
 
-## 🧰 Create your own
+## 🧰 Create your own linktree
 
 - If you like this work and want to have a head start in making your own version, fork this repository and change the information in ```index.html```, then set up [Github Pages](https://pages.github.com/) to host the website.
 
 ## 💭 Credit
 
-Orginally made by [John Emerson](https://github.com/johnggli), Edited by [Me](https://github.com/SpaceManJax)
+Linktree originally made by [John Emerson](https://github.com/johnggli), Everything else by [Me](https://github.com/StarFallenJax)
