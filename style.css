@@ -22,7 +22,7 @@ body {
     background-size: cover;
     position: relative;
     color: var(--accentColor);
-    font-size: 1rem;
+    font-size: 24px;
     font-weight: bold;
     line-height: 1.25;
     display: block;
