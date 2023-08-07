@@ -21,6 +21,14 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    color: var(--accentColor);
+    font-size: 1rem; /* 24px */
+    font-weight: bold;
+    line-height: 1.25;
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
 }
 
 #profilePicture, #profilePicture img {
