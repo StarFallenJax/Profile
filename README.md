@@ -12,4 +12,4 @@ This is an open source project of mine, designed to streamline all of my public 
 
 ## 💭 Credit
 
-Linktree originally made by [John Emerson](https://github.com/johnggli), everything else by [Me](https://github.com/StarFallenJax)
+Originally made by [John Emerson](https://github.com/johnggli), 
